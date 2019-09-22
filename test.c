@@ -2,7 +2,6 @@
 
 int main(void)
 {
-    printf("this is a test");
-    printf("the first modify");
+    int i;
     return 0;
 }
